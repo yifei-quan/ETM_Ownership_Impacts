@@ -1,0 +1,37 @@
+outcome,group,estimate,std_error,significance
+Forest area,domestic,-0.072,0.007,***
+Forest area,foreign,-0.074,0.007,***
+Forest area,foreign_minus_domestic,-0.002,0.008,NS
+PM2.5 concentration,domestic,-0.05,0.023,**
+PM2.5 concentration,foreign,-0.056,0.022,**
+PM2.5 concentration,foreign_minus_domestic,-0.006,0.031,NS
+Infant mortality rate,domestic,-0.121,0.025,***
+Infant mortality rate,foreign,-0.223,0.031,***
+Infant mortality rate,foreign_minus_domestic,-0.102,0.036,***
+Child nutritional status,domestic,-0.082,0.028,***
+Child nutritional status,foreign,-0.159,0.019,***
+Child nutritional status,foreign_minus_domestic,-0.077,0.032,**
+Primary school attendance,domestic,0.347,0.038,***
+Primary school attendance,foreign,0.12,0.041,***
+Primary school attendance,foreign_minus_domestic,-0.227,0.048,***
+Total employment rate,domestic,0.109,0.032,***
+Total employment rate,foreign,-0.067,0.031,**
+Total employment rate,foreign_minus_domestic,-0.176,0.039,***
+Cropland ownership,domestic,-0.145,0.046,***
+Cropland ownership,foreign,-0.339,0.049,***
+Cropland ownership,foreign_minus_domestic,-0.194,0.065,***
+Intimate partner violence,domestic,0.184,0.045,***
+Intimate partner violence,foreign,-0.101,0.048,**
+Intimate partner violence,foreign_minus_domestic,-0.285,0.061,***
+Wealth Gini coefficient,domestic,0.223,0.038,***
+Wealth Gini coefficient,foreign,-0.182,0.033,***
+Wealth Gini coefficient,foreign_minus_domestic,-0.405,0.047,***
+Conflict intensity,domestic,-0.162,0.024,***
+Conflict intensity,foreign,-0.28,0.023,***
+Conflict intensity,foreign_minus_domestic,-0.118,0.031,***
+Access to safe drinking water,domestic,-0.016,0.023,NS
+Access to safe drinking water,foreign,-0.032,0.026,NS
+Access to safe drinking water,foreign_minus_domestic,-0.016,0.031,NS
+Access to clean fuels,domestic,0.176,0.03,***
+Access to clean fuels,foreign,0.081,0.026,***
+Access to clean fuels,foreign_minus_domestic,-0.095,0.036,***

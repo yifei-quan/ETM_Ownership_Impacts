@@ -1,0 +1,13 @@
+Outcome,(1) Domestic-owned projects,(2) Foreign-owned projects,(3) Foreign-Domestic contrast
+Forest area,-0.072*** (0.007),-0.074*** (0.007),-0.002 (0.008)
+PM2.5 concentration,-0.050** (0.023),-0.056** (0.022),-0.006 (0.031)
+Infant mortality rate,-0.121*** (0.025),-0.223*** (0.031),-0.102*** (0.036)
+Child nutritional status,-0.082*** (0.028),-0.159*** (0.019),-0.077** (0.032)
+Primary school attendance,0.347*** (0.038),0.120*** (0.041),-0.227*** (0.048)
+Total employment rate,0.109*** (0.032),-0.067** (0.031),-0.176*** (0.039)
+Cropland ownership,-0.145*** (0.046),-0.339*** (0.049),-0.194*** (0.065)
+Intimate partner violence,0.184*** (0.045),-0.101** (0.048),-0.285*** (0.061)
+Wealth Gini coefficient,0.223*** (0.038),-0.182*** (0.033),-0.405*** (0.047)
+Conflict intensity,-0.162*** (0.024),-0.280*** (0.023),-0.118*** (0.031)
+Access to safe drinking water,-0.016 (0.023),-0.032 (0.026),-0.016 (0.031)
+Access to clean fuels,0.176*** (0.030),0.081*** (0.026),-0.095*** (0.036)

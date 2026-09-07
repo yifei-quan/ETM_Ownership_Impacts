@@ -1,0 +1,18 @@
+# Efficiency regressions
+
+|  | (1) Efficiency | (2) Efficiency | (3) Log of efficiency | (4) Log of efficiency |
+| --- | --- | --- | --- | --- |
+| Ownership | 1.042* (0.551) | 1.352* (0.743) | 0.402** (0.166) | 0.352*** (0.128) |
+| Mine age | 0.002 (0.031) | -0.006 (0.032) | 0.022** (0.009) | 0.005 (0.006) |
+| Ore grade | 0.143 (0.176) | -0.331* (0.192) | 0.335*** (0.053) | -0.015 (0.033) |
+| Altitude | 0.008 (0.206) | -0.167 (0.298) | 0.023 (0.062) | 0.060 (0.051) |
+| Slope | 0.030* (0.016) | 0.029* (0.017) | 0.001 (0.005) | -0.001 (0.003) |
+| Population density | -0.783 (3.313) | 0.035 (3.801) | -1.810* (1.000) | 0.493 (0.653) |
+| Road density | 0.457 (0.895) | -0.338 (1.066) | 0.880*** (0.270) | -0.112 (0.183) |
+| Mineral FEs | No | Yes | No | Yes |
+| Country FEs | No | Yes | No | Yes |
+| Observations | 1,280 | 1,280 | 1,280 | 1,280 |
+
+Efficiency gap between domestic- and foreign-owned projects. Ordinary least squares estimates of the land-use efficiency equation in the SI, with land-use efficiency in levels (Columns 1 and 2) or natural logarithms (Columns 3 and 4). Ownership equals 1 for foreign-owned projects and 0 for domestic-owned projects. Parentheses report robust standard errors. ***, **, and * denote P < 0.01, P < 0.05, and P < 0.10, respectively.
+
+[CSV](efficiency_regressions.csv). Originally Supplementary Table 2.
