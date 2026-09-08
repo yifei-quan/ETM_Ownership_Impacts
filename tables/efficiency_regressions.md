@@ -14,5 +14,3 @@
 | Observations | 1,280 | 1,280 | 1,280 | 1,280 |
 
 Efficiency gap between domestic- and foreign-owned projects. Ordinary least squares estimates of the land-use efficiency equation in the SI, with land-use efficiency in levels (Columns 1 and 2) or natural logarithms (Columns 3 and 4). Ownership equals 1 for foreign-owned projects and 0 for domestic-owned projects. Parentheses report robust standard errors. ***, **, and * denote P < 0.01, P < 0.05, and P < 0.10, respectively.
-
-[CSV](efficiency_regressions.csv). Originally Supplementary Table 2.

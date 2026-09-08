@@ -16,5 +16,3 @@
 | Access to clean fuels | 0.145*** (0.043) | 0.087* (0.046) | -0.058 (0.049) |
 
 Robustness to coarsened exact matching. Ownership-specific estimates from the CEM-weighted sample. Outcomes are expressed in control-group standard-deviation units and sign-oriented so that positive estimates indicate improvement. Column 3 reports the foreign minus domestic contrast. Parentheses report project-clustered standard errors. ***, **, and * denote P < 0.01, P < 0.05, and P < 0.10, respectively.
-
-[CSV](matched_sample.csv). Originally Supplementary Table 3.

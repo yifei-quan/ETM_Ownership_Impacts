@@ -16,5 +16,3 @@
 | Access to clean fuels | 0.176*** (0.030) | 0.081*** (0.026) | -0.095*** (0.036) |
 
 Ownership-specific estimates after constructing outcomes with inverse-distance-squared weights. Outcomes are expressed in control-group standard-deviation units and sign-oriented so that positive estimates indicate improvement. Column 3 reports the foreign minus domestic contrast. Parentheses report project-clustered standard errors. ***, **, and * denote P < 0.01, P < 0.05, and P < 0.10, respectively.
-
-[CSV](spatial_attribution.csv). Originally Supplementary Table 4.
