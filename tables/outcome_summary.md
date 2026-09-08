@@ -16,5 +16,3 @@
 | Access to clean fuels | SDG 7.1 | % | 1986–2024 | 13,535 | 27.1 | 28.9 | 0 | 100 |
 
 Outcome definitions and summary statistics. Temporal coverage, analytical observations and summary statistics are computed from the project-year analysis sample for each outcome before standardization and sign orientation.
-
-[CSV](outcome_summary.csv). Originally Supplementary Table 1.
