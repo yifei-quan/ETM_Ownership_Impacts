@@ -7,6 +7,7 @@ Supporting figures and aggregate results accompanying the PNAS Brief Report supp
 | Material | Downloads |
 | --- | --- |
 | [Event studies](figures/event_studies.md) | [PDF](figures/event_studies.pdf), [PNG](figures/event_studies.png) |
+| [Covariate balance](figures/covariate_balance.md) | [PDF](figures/covariate_balance.pdf), [PNG](figures/covariate_balance.png) |
 | [Alternative estimators](figures/alternative_estimators.md) | [PDF](figures/alternative_estimators.pdf), [PNG](figures/alternative_estimators.png) |
 
 ## Tables
